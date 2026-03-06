@@ -1,2 +1,2 @@
-# schoolOpdrachten
-Digitale Werkomgeving Opdracht 1a
+# Digitale Werkomgeving 1
+
